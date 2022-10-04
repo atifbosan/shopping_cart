@@ -1,4 +1,4 @@
-# Shooping Cart
+# Shopping Cart
 # add_to_cart
 
 Flutter shopping cart project.
