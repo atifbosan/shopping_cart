@@ -1,6 +1,12 @@
-# my_test_project
+# Shooping Cart
+# add_to_cart
 
-A new Flutter project.
+Flutter shopping cart project.
+
+screen short of the ui:
+
+![Simulator Screen Shot - iPhone 12 Pro Max - 2022-10-04 at 14 36 59](https://user-images.githubusercontent.com/60182374/193787950-aefbdde4-8e3b-4171-bc3c-337cedf4a7db.png)![Simulator Screen Shot - iPhone 12 Pro Max - 2022-10-04 at 14 37 10](https://user-images.githubusercontent.com/60182374/193787966-f7318c8e-d54d-4b9e-a563-24cf04992314.png)
+
 
 ## Getting Started
 
